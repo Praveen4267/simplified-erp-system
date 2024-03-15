@@ -1,6 +1,29 @@
-# Getting Started with Create React App
+# Simplified ERP system with React (without BackEnd)
 
-Instructions for Running the Application To run the Simplified ERP System locally on your machine, follow these steps: Welcome to the Simplified ERP System built with React! This project provides a user-friendly interface for managing key aspects of a business, such as product listings and order management. The system includes the following pages:
+Instructions for Running the Application To run the Simplified ERP System locally on your machine, follow these steps: Welcome to the Simplified ERP System built with React! This project provides a user-friendly interface for managing key aspects of a business, such as product listings and order management. 
+
+The system includes the following pages:
+
+Dashboard: Provides an overview of key metrics or features.
+
+Products Management: Allows for the management of product listings.
+
+Orders Management: Facilitates viewing and handling orders.
+
+Orders Calendar View (Optional): Displays orders on their expected delivery dates.
+
+
+Project Objectives
+
+Develop a user-friendly interface for managing business operations.
+Utilize React for building modular components and managing application state.
+Implement navigation between different sections using React Router.
+Create a responsive design suitable for desktop and mobile devices.
+
+
+Instructions for Running the Application
+To run the Simplified ERP System locally on your machine, follow these steps:
+
 
 
 
